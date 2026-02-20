@@ -10,6 +10,7 @@
   <p>🎯 Goal:  Building Scalable backend Projects and Solving Complex Coding Problems.</p>
   <p>💬 Ask me about: Java, MySQL, aur Backend Logic.</p>
 </div>
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/dnyaneshwar-kulkarni-037b74383/">
       <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -51,4 +52,17 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000000.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=Dnyaneshwar202006&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyaneshwar202006&layout=compact&hide_border=false&theme=jolly)
+
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
+## GitHub Streaks 🔥
+![Streaks](https://nirzak-streak-stats.vercel.app/?user=Dnyaneshwar202006&theme=jolly&date_format=j%20M%5B%20Y%5D)
+
+### Thanks for Visiting my GitHub Profile!
+
+---
 
