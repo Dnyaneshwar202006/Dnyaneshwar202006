@@ -8,7 +8,7 @@
   <p>I focus on building robust systems and high-performance databases.</p>
   <p>🌱 Learning: Spring Boot and Backend Architecture.</p>
   <p>🎯 Goal:  Building Scalable backend Projects and Solving Complex Coding Problems.</p>
-  <p>💬 Ask me about: Java, MySQL, aur Backend Logic.</p>
+  <p>💬 Ask me about: Java, MySQL, and Backend Logic.</p>
 </div>
 <br>
 <div align="center">
