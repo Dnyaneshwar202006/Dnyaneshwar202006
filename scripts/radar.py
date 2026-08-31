@@ -300,8 +300,9 @@ def main(argv=None):
                    help="--github axis scaling: 1.0 linear, 0.5 sqrt (default), "
                         "0.3 flattens a one-language-dominant profile")
     p.add_argument("--values", action="store_true", help="print the number per axis")
-    p.add_argument("--no-animate", dest="animate", action="store_false",
-                   help="disable the grow-in animation")
+    p.add_argument("--animate", dest="animate", action="store_true", default=False,
+                   help="enable the grow-in animation")
+
     args = p.parse_args(argv)
 
     if args.github:
