@@ -323,8 +323,9 @@ def main(argv=None):
         svg = render(title, axes, theme, args.size, args.rings, args.values,
                      args.animate)
         dest = args.out.with_name(f"{args.out.name}-{theme}.svg")
-        dest.write_text(svg, encoding="utf-8-sig")
+        dest.write_text(svg, encoding="utf-8")
         print(f"wrote {dest}  ({len(axes)} axes)")
+
 
 
 if __name__ == "__main__":
