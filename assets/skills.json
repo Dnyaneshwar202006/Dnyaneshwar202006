@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated skill breakdown on a 0-100 scale.",
+  "axes": [
+    { "label": "Java / Spring", "value": 85 },
+    { "label": "React", "value": 80 },
+    { "label": "React Native", "value": 50 },
+    { "label": "Databases (SQL/NoSQL)", "value": 75 },
+    { "label": "REST APIs / Node", "value": 80 },
+    { "label": "DSA & Fundamentals", "value": 70 },
+    { "label": "Dev Tools / Git", "value": 75 }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Dnyaneshwar202006 · language mix",
+  "axes": [
+    { "label": "Java", "value": 85 },
+    { "label": "JavaScript", "value": 80 },
+    { "label": "TypeScript", "value": 75 },
+    { "label": "SQL", "value": 75 },
+    { "label": "HTML / CSS", "value": 85 },
+    { "label": "Spring / Node", "value": 80 }
+  ]
+}

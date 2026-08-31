@@ -1,0 +1,15 @@
+{
+  "_comment": "Featured repos, in README order.",
+  "projects": [
+    {
+      "repo": "FitForum",
+      "owner": "Dnyaneshwar202006",
+      "description": "A fitness-focused social community where users can create accounts, join fitness communities, share experiences, discover discussions, and interact with posts."
+    },
+    {
+      "repo": "Internship-Tracker-V2",
+      "owner": "Advait-3000",
+      "description": "A streamlined tracking application to manage job applications, interview pipelines, status updates, and deadlines."
+    }
+  ]
+}

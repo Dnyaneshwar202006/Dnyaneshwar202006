@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120" role="img" aria-label="Most Used Languages">
+  <style>
+    .header { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #22d3ee }
+    .lang-name { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9 }
+    .lang-pct { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e }
+  </style>
+  <rect x="0.5" y="0.5" rx="10" height="119" width="479" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="20" y="28" class="header">Most Used Languages</text>
+  
+  <!-- Multi-segment Progress Bar -->
+  <mask id="bar-mask">
+    <rect x="20" y="44" width="440" height="8" rx="4" fill="white"/>
+  </mask>
+  <g mask="url(#bar-mask)">
+    <rect x="20" y="44" width="187" height="8" fill="#b07219"/>
+    <rect x="207" y="44" width="123" height="8" fill="#f1e05a"/>
+    <rect x="330" y="44" width="73" height="8" fill="#3178c6"/>
+    <rect x="403" y="44" width="35" height="8" fill="#e38c00"/>
+    <rect x="438" y="44" width="22" height="8" fill="#e34c26"/>
+  </g>
+
+  <!-- Legend Items -->
+  <g transform="translate(20, 75)">
+    <circle cx="5" cy="5" r="4" fill="#b07219"/>
+    <text x="15" y="9" class="lang-name">Java</text>
+    <text x="50" y="9" class="lang-pct">42.5%</text>
+
+    <circle cx="105" cy="5" r="4" fill="#f1e05a"/>
+    <text x="115" y="9" class="lang-name">JavaScript</text>
+    <text x="180" y="9" class="lang-pct">28.0%</text>
+
+    <circle cx="230" cy="5" r="4" fill="#3178c6"/>
+    <text x="240" y="9" class="lang-name">TypeScript</text>
+    <text x="305" y="9" class="lang-pct">16.5%</text>
+
+    <circle cx="355" cy="5" r="4" fill="#e38c00"/>
+    <text x="365" y="9" class="lang-name">SQL</text>
+    <text x="395" y="9" class="lang-pct">8.0%</text>
+  </g>
+</svg>
